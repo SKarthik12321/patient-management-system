@@ -1,5 +1,3 @@
-<img width="1536" height="1024" alt="patient-management-thumbnail" src="https://github.com/user-attachments/assets/8219f8da-c02c-4bab-8195-20a4c2357165" />
-
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
